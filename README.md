@@ -1,8 +1,9 @@
 # <div align="center"><picture><img src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width = 100px></picture> Sayuni.exe Has Entered the Chat</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Digital+Innovator+in+the+Making;Machine+Learning+Enthusiast;AI+Innovation+Explorer;Building+Tomorrow's+Solutions+Today!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Digital+Innovator+in+the+Making;Machine+Learning+Enthusiast;AI+Innovation+Explorer;Building+Tomorrow's+Solutions+Today!" alt="Typing SVG" />
 </div>
+
 
 ---
 
