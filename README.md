@@ -1,4 +1,4 @@
-# <div align="center">👩‍💻 Sayuni.exe Has Entered the Chat</div>
+# <div align="center"><picture><img src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width = 100px></picture> Sayuni.exe Has Entered the Chat</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Digital+Innovator+in+the+Making;Machine+Learning+Enthusiast;AI+Innovation+Explorer;Building+Tomorrow's+Solutions+Today!" alt="Typing SVG" />
@@ -8,7 +8,6 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
 
-<picture><img align="right" src = "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width = 400px height = 285px></picture>
 ```python
 class ITSpecialistInProgress:
     def __init__(self):
