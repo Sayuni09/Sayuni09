@@ -15,6 +15,8 @@ class ITSpecialistInProgress:
         self.university = "SLIIT University, Sri Lanka"
         self.specialization = "Information Technology"
         self.year = "Year 3"
+        self.passion = ["AI Development", "Data Analysis", "Innovation"]
+        self.location = "Sri Lanka 🇱🇰"
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
